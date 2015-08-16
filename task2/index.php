@@ -1,3 +1,6 @@
+<?php
+header('Content-Type: text/html; charset=utf-8');
+?>
 <link rel="stylesheet" href="/vendor/highlight/styles/default.css">
 <script src="/vendor/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
